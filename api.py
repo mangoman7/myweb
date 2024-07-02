@@ -36,4 +36,4 @@ def log():
         return 'Unknown Error as whole'
 
 if __name__ == '__main__':
-    app.run(debug=True, port=1777)
+    app.run(debug=True, port=1776)
